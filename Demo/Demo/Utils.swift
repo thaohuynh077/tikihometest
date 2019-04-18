@@ -13,7 +13,7 @@ class Utils {
     static let colors = ["#16702e", "#005a51", "#996c00", "#5c0a6b", "#006d90", "#974e06", "#99272e", "#89221f", "#00345d"]
     
 }
-
+// Test merge commit 2 - branch 1
 extension UIColor {
     convenience init(hexString: String, alpha: CGFloat = 1.0) {
         let hexString: String = hexString.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines)
