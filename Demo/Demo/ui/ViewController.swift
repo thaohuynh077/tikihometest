@@ -14,6 +14,7 @@ class ItemViewCell: UICollectionViewCell {
     @IBOutlet weak var itemName: UILabel!
 }
 
+// Rebase Git test commit branch test3
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     @IBOutlet weak var collectionView: UICollectionView!
     
